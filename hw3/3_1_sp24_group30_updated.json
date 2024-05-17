@@ -1,0 +1,652 @@
+[
+    [
+        {
+            "id": 0,
+            "comment_id": "2d624596-dde6-431b-87d5-5fd17560b8e1",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 1,
+            "text": "Hello Zara! How are you doing?",
+            "intent": "Extend_greetings",
+            "other_intent": ""
+        },
+        {
+            "id": 0,
+            "comment_id": "4cd5564a-e594-4dfd-bdeb-0d6ebbca0a12",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 1,
+            "text": "Hi! I am doing well today",
+            "intent": "Casual_response",
+            "other_intent": ""
+        },
+        {
+            "id": 0,
+            "comment_id": "54997733-92b1-4eb7-82bd-fd95907f71a2",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 1,
+            "text": "Are you ready to learn how to use the computer?",
+            "intent": "Ask_get_started",
+            "other_intent": ""
+        },
+        {
+            "id": 0,
+            "comment_id": "0e0e5507-6772-4aaa-b17d-4ecad34c2733",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 1,
+            "text": "Yes, let's get started!",
+            "intent": "Yes-no_positive",
+            "other_intent": ""
+        },
+        {
+            "id": 0,
+            "comment_id": "e7c8595e-789d-42fa-8315-e046fe3a362e",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 1,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "comment_id": "a97dc79b-122e-47b4-9855-cb9bf693855e",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 2,
+            "text": "Okay, let's head to the office",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "e0c969f1-0d61-4a96-bedd-62883befe6e7",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 2,
+            "text": "Where is the office located?",
+            "intent": "Ask_about_location",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "18dd900a-cd0e-4365-a51b-8d09aae84ba3",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 2,
+            "text": "The office is through the doorway behind you",
+            "intent": "Inform_location",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "b3de594c-3400-4b9a-83be-998976a5fc1a",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 2,
+            "text": "Okay, I see where that is",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "25ba54f5-dc4f-41aa-a304-872d3ec6c082",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 2,
+            "text": "Can we walk into the office together?",
+            "intent": "Ask_guidence",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "d5f4ea66-9ce4-4b0d-a146-21d209e926ef",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 2,
+            "text": "Yeah, I'll follow you there",
+            "intent": "Yes-no_positive",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "6c06e841-1e42-43e4-a20d-94c50ccaacaf",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 2,
+            "text": "We are now in the office",
+            "intent": "Casual_observation",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "7f98dba9-1062-493a-b65f-2a86ee4b6b6f",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 2,
+            "text": "Okay perfect!",
+            "intent": "Casual_response",
+            "other_intent": ""
+        },
+        {
+            "id": 1,
+            "comment_id": "1803c8e5-a154-4201-a13c-ab74a21f1dda",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 2,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 2,
+            "comment_id": "49c6cef0-8b64-426d-8f6c-08c919a85658",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 3,
+            "text": "The computer is underneath the desk",
+            "intent": "Inform_object",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "d2e0558e-73b2-4de5-9f3b-7a462fa27be2",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 3,
+            "text": "Is it the white box right there?",
+            "intent": "Ask_about_object",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "8eaf54c6-ffb2-4899-969e-d9c616b6edfd",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 3,
+            "text": "Yes",
+            "intent": "Yes-no_positive",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "61d46460-eea5-4f8a-97b8-3295ecb11dff",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 3,
+            "text": "Reach down and press the button on it to turn it on",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "8b5f0638-a9d9-49b3-9f58-773b9eb72f13",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 3,
+            "text": "Ok, I understand and will press the button.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "7a253100-d2e5-46b4-931a-dad4e23dd2c5",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 3,
+            "text": "Now I see that the computer is turned on.",
+            "intent": "Inform_condition",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "fa81941a-b6f3-41cb-ab4d-ae28dcca3e94",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 3,
+            "text": "Good job!",
+            "intent": "Encoragement",
+            "other_intent": ""
+        },
+        {
+            "id": 2,
+            "comment_id": "67d72af7-888f-4738-a349-c2f45e48c6ca",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 3,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 3,
+            "comment_id": "446ee7bf-f0dd-46d4-b341-6259eb3903d6",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 4,
+            "text": "Turn around and find the chair.",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 3,
+            "comment_id": "5bf59b67-d8e7-4513-8d3f-8e8439d7ed7f",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 4,
+            "text": "Is the white and brown thing the chair?",
+            "intent": "Ask_about_object",
+            "other_intent": ""
+        },
+        {
+            "id": 3,
+            "comment_id": "4f49e417-6c60-4464-b89f-b0d327b3282f",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 4,
+            "text": "Yes, that's the chair.",
+            "intent": "Yes-no_positive",
+            "other_intent": ""
+        },
+        {
+            "id": 3,
+            "comment_id": "1603bf25-a391-435b-805d-248453018911",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 4,
+            "text": "Okay, great",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 3,
+            "comment_id": "99bc60e0-859c-49d9-808c-e9e0a11dba8a",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 4,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 4,
+            "comment_id": "76f94add-28a5-4ea8-a366-fb1a7706affe",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 5,
+            "text": "What should I do now that I see the chair in front of me?",
+            "intent": "Ask_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 4,
+            "comment_id": "f73c4388-ef13-4002-9b35-3ad6871005f0",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 5,
+            "text": "Have a seat in the chair.",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 4,
+            "comment_id": "621275c1-c59e-4067-8650-7ab7ac678aa1",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 5,
+            "text": "Okay, I will sit down",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 4,
+            "comment_id": "f8fd5064-3f79-44c5-b5f0-74ef46ba9ef8",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 5,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 5,
+            "comment_id": "08d7530c-e768-48d3-be19-0d6c27d0dcc6",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 6,
+            "text": "Do you know what the mouse is?",
+            "intent": "Ask_know_object",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "ed4fbe9f-d5e1-4e5f-a477-4876ead7bc3e",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 6,
+            "text": "No, what is it?",
+            "intent": "Ask_about_object",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "1ddae392-3311-4f8a-b57f-0c22771aca39",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 6,
+            "text": "The mouse is the black object on the right side of the desk.",
+            "intent": "Inform_object",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "565ac026-3dc7-428d-9be6-5e9872715ef8",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 6,
+            "text": "Ok, I see it.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "10277213-6549-4282-8dab-8686dba28ff0",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 6,
+            "text": "Great, now grab the mouse.",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "00ab33c0-f8a0-4eb2-a293-87a61708e8d4",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 6,
+            "text": "Got it. I'll grab it right now.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 5,
+            "comment_id": "a84e4659-1917-49ab-a875-0268e7c90b94",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 6,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 6,
+            "comment_id": "1106de57-c58a-4242-b502-f45b2ce81198",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 7,
+            "text": "What should I do now?",
+            "intent": "Ask_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "b14b5a02-a9da-49a8-a86e-0bacedf48730",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 7,
+            "text": "Look at the screen",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "785b60e2-3519-4036-92e0-d7fc017a2892",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 7,
+            "text": "Ok. I'm looking at it.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "06d913b8-597f-4ed0-a01a-10707befdea3",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 7,
+            "text": "Now slide the mouse across a surface",
+            "intent": "Inform_action",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "86a97373-8453-4457-a6b7-d1c4e9948385",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 7,
+            "text": "Do you see the cursor move on the screen?",
+            "intent": "Casual_question",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "00fa8ff7-2db7-4065-92aa-4ae563e24e37",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 7,
+            "text": "Okay. I am moving the mouse and see the cursor moving on the screen.",
+            "intent": "Yes-no_positive",
+            "other_intent": ""
+        },
+        {
+            "id": 6,
+            "comment_id": "4cbbaaac-edbc-4435-8bac-f572ef139fbd",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 7,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 7,
+            "comment_id": "4db75ebc-5bed-4572-8eef-897ec009b453",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 8,
+            "text": "When you're done, leave the mouse on the desk.",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 7,
+            "comment_id": "ffe9150e-4b39-41bb-aa11-d69862e28c6c",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 8,
+            "text": "Okay. I will put it on the desk since I'm done.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 7,
+            "comment_id": "6aa9fc10-59bc-4791-85ad-9f9f8ea72577",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 8,
+            "text": "Where should I put it on the desk?",
+            "intent": "Ask_about_action",
+            "other_intent": ""
+        },
+        {
+            "id": 7,
+            "comment_id": "53ae7455-1ca5-4c04-a29c-233cdb7fe9c2",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 8,
+            "text": "Anywhere is fine.",
+            "intent": "Inform_location",
+            "other_intent": ""
+        },
+        {
+            "id": 7,
+            "comment_id": "6930852e-bce0-49d9-b602-149032869f93",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 8,
+            "text": "Okay, I'll put it down.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 7,
+            "comment_id": "2c8bb5fc-a62f-4edf-b229-121d0c7a2357",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 8,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 8,
+            "comment_id": "ece266fc-6d32-4009-b892-676e2fe245f6",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 9,
+            "text": "When you're done using the computer, stand up and get ready to turn it off.",
+            "intent": "Inform_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 8,
+            "comment_id": "f453ff48-96be-47d5-aa26-529f49d8bb42",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 9,
+            "text": "Ok. Let me stand up.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 8,
+            "comment_id": "8bf8cf7b-7012-4b50-af9b-b68aeeafe25d",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 9,
+            "text": "Ok, so how do I turn the computer off?",
+            "intent": "Ask_about_action",
+            "other_intent": ""
+        },
+        {
+            "id": 8,
+            "comment_id": "f155001b-1e65-4a21-9142-c788cbc3de1c",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 9,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ],
+    [
+        {
+            "id": 9,
+            "comment_id": "64fb8524-0d91-4b02-b074-76994ce3d133",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 10,
+            "text": "Reach down and press the same button you used to turn the computer on",
+            "intent": "Inform_action",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "5c7523f0-1ea0-4a6d-bf95-32935b5a827c",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 10,
+            "text": "Ok, I will do that right now.",
+            "intent": "Inform_understanding",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "6ff80638-057d-4aee-96c1-214c3cb1bc06",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 10,
+            "text": "Is there anything else I should do?",
+            "intent": "Ask_next_step",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "9736e4e2-860c-4c32-960a-26315825baa0",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 10,
+            "text": "No that's it",
+            "intent": "Yes-no_negative",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "76b4680a-fe51-454f-a1f5-f1e1f54aa0b6",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 10,
+            "text": "Great job!",
+            "intent": "Encoragement",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "57d036d2-8f92-41f1-9fec-0bb3e89b6502",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 10,
+            "text": "Thanks for teaching me how to use a computer! Goodbye!",
+            "intent": "Extend_goodbyes",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "58fb41ad-6468-4f37-8802-b8426b1a020c",
+            "category": "using_computer_0",
+            "user": "Human",
+            "index": 10,
+            "text": "You're welcome! Goodbye!",
+            "intent": "Extend_goodbyes",
+            "other_intent": ""
+        },
+        {
+            "id": 9,
+            "comment_id": "3493b28f-7821-4679-ab98-675879510ca8",
+            "category": "using_computer_0",
+            "user": "Alien",
+            "index": 10,
+            "text": "",
+            "intent": "DONE",
+            "other_intent": ""
+        }
+    ]
+]
